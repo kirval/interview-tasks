@@ -1,4 +1,4 @@
-package tasks.min_pair_sum;
+package tasks.java.min_pair_sum;
 
 import java.util.ArrayList;
 import java.util.Collections;

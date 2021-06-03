@@ -1,0 +1,1 @@
+Show row id where email column is repeating.
